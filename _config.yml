@@ -9,12 +9,12 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Rui Ma / Site Title"
+title                    : "Rui Ma"
 title_separator          : "-"
 name                     : &name "Rui Ma"
 description              : &description "personal description"
-url                      : https://rma045/ruima.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+url                      : "https://.github.io" # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+baseurl                  : #"" # the subpath of your site, e.g. "/blog"
 repository               : "rma045/ruima.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -46,7 +46,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "rma045/ruima"
+  github           : "ruima-stats"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
