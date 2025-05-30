@@ -11,36 +11,22 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Applied Statistics, University of California, Riverside, 2024
+* M.S. in Computer Science, University of California, Riverside, 2024
+* B.S. in Actuarial Science, University of California, Santa Barbara, 2019
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* July 2024 - Present: PostDoc Fellow
+  * University of California, Riverside
+  * Supervisor: Dr. Wenxiu Ma and Dr. Vivian Wei Li
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* July 2022 - June 2024: Graduate Student Researcher
+  * University of California, Riverside
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* July 2020 - June 2022: Teaching Assistant
+  * University of California, Riverside
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
