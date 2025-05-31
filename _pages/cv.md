@@ -20,7 +20,7 @@ Education
 *University of California, Riverside*  
 - Co-advisors: Dr. Wenxiu Ma and [Dr. Tao Jiang](http://www.cs.ucr.edu/~jiang/)
 
-**B.S. in Actuarial Science**  
+**B.S. in Actuarial Science** (2019)
 *University of California, Santa Barbara*  
  
 Work experience
