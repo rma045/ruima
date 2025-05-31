@@ -9,7 +9,7 @@ redirect_from:
 
 Short Bio
 ------
-I am currently a Postdoctoral Fellow in the Department of Statistics at the University of California, Riverside (UCR), working with [Dr. Wenxiu Ma](https://faculty.ucr.edu/~wenxiu/) and [Dr. Vivian Wei Li](https://vivianli.org/#home). My research focuses on developing statistical and deep learning models for single-omics and genome-wide data analysis. I obtained my Ph.D. in Applied Statistics (2024) and an M.S. in Computer Science from UCR, following my B.S. in Actuarial Science from the University of California, Santa Barbara.
+I am currently a Postdoctoral Fellow in the Department of Statistics at the University of California, Riverside (UCR), working with [Dr. Wenxiu Ma](https://faculty.ucr.edu/~wenxiu/) and [Dr. Vivian Wei Li](https://vivianli.org/#home). My research focuses on developing statistical and deep learning models for single-omics and genome-wide data analysis. I obtained my Ph.D. in Applied Statistics (advised by Dr. Wenxiu Ma) and an M.S. in Computer Science (co-advised by [Dr. Tao Jiang](http://www.cs.ucr.edu/~jiang/)) from UCR in 2024, following my B.S. in Actuarial Science from the University of California, Santa Barbara.
 
 Research Interest
 ------
