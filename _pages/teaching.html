@@ -5,12 +5,8 @@ permalink: /teaching/
 author_profile: true
 ---
 
-Teacher Assistant
-------
+{% include base_path %}
 
-STAT 008/048   Statistics for Business
-STAT 010/100A  Introduction to Statistics
-STAT 100B      Introduction to Statistics
-STAT 146       Statistical Forecasting Techniques
-STAT 170       Regression Analysis
-
+{% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
