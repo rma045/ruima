@@ -19,6 +19,10 @@ Research Interest
 
 Recent Publications
 ------
-[1] **Ma, R**., Huang, J., Jiang, T., & Ma, W. (Nov. 2024). "[A mini-review of single-cell Hi-C embedding methods](10.1016/j.csbj.2024.11.002)" Computational and Structural Biotechnology Journal.
 
-[2] Lin, J., Zhang, J., Ma, L., Fang, H., **Ma, R.**, Groneck, C., Filippova, G.N., Deng, X., Kinoshita, C., Young, J.E. and Ma, W., (Jan. 2025)."[KDM6A facilitates Xist upregulation at the onset of X inactivation](https://doi.org/10.1186/s13293-024-00683-3)"  Biology of Sex Differences, 16(1), p.1.
+[1] J. Huang, **R. Ma**, M. Strobel, Y. Hu, T. Ye, T. Jiang, & W. Ma (2025). "SHICEDO: Single-cell Hi-C Resolution Enhancement with Reduced Over-smoothing" Bioinformatics (under review).
+
+[2] J. Lin, J. Zhang, L. Ma, H. Fang, **R. Ma**, C. Groneck, G.N. Filippova, X. Deng, C. Kinoshita, J.E. Young and W. Ma (Jan. 2025). "[KDM6A facilitates Xist upregulation at the onset of X inactivation](https://doi.org/10.1186/s13293-024-00683-3)"  Biology of Sex Differences, 16(1), p.1.
+
+[3] **R. Ma**, J. Huang, T. Jiang, & W. Ma (Nov. 2024). "[A mini-review of single-cell Hi-C embedding methods](10.1016/j.csbj.2024.11.002)" Computational and Structural Biotechnology Journal.
+
