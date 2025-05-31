@@ -11,10 +11,18 @@ redirect_from:
 
 Education
 ------
-* Ph.D in Applied Statistics, University of California, Riverside, 2024
-* M.S. in Computer Science, University of California, Riverside, 2024
-* B.S. in Actuarial Science, University of California, Santa Barbara, 2019
+**Ph.D. in Applied Statistics** (2024)  
+*University of California, Riverside*  
+- Advisor: [Dr. Wenxiu Ma](https://faculty.ucr.edu/~wenxiu/)  
+- Dissertation: "Statistical Methods for Facilitating Single-Cell 3D Genome Analysis"  
 
+**M.S. in Computer Science** (2024)  
+*University of California, Riverside*  
+- Co-advisors: Dr. Wenxiu Ma and [Dr. Tao Jiang](http://www.cs.ucr.edu/~jiang/)
+
+**B.S. in Actuarial Science**  
+*University of California, Santa Barbara*  
+ 
 Work experience
 ------
 * July 2024 - Present: PostDoc Fellow
