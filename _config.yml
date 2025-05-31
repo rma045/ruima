@@ -22,12 +22,12 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Rui Ma"
   pronouns         : "she/her"  
   bio              : "PostDoc Fellow at UCR"
   location         : "California, USA"
-  employer         : "University of California, Riverside"
+  employer         : "UC Riverside"
   uri              : # URL
   email            : "rma045@ucr.edu" 
 
